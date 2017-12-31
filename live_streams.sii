@@ -1,10 +1,13 @@
 SiiNunit
 {
 live_stream_def : _nameless.1ca.e536.a570 {
- stream_data: 3
+ stream_data: 6
  stream_data[0]: "http://stream.laut.fm/simliveradio|SimLiveRadio|Sim radio|DE|128|0"
  stream_data[1]: "http://stream.laut.fm/simulator1|simulatorONE|Sim radio|DE|128|0"
  stream_data[2]: "http://stream.laut.fm/streamerfm|StreamerFM|Pop|DE|128|0"
+ stream_data[3]: "https://wdr-1live-live.sslcast.addradio.de/wdr/1live/live/mp3/128/stream.mp3|1LIVE|Adult contemporary|DE|128|0"
+ stream_data[4]: "http://rnrw.cast.addradio.de/rnrw-01AB/deinlounge/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7&context=fHA6LTE=|Radio Vest|Adult contemporary|DE|128|0"
+ stream_data[5]: "http://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7|Radio Duisburg|Adult contemporary|DE|128|0" 
  }
 
 }
