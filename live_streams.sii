@@ -1,0 +1,10 @@
+SiiNunit
+{
+live_stream_def : _nameless.1ca.e536.a570 {
+ stream_data: 3
+ stream_data[0]: "http://stream.laut.fm/simliveradio|SimLiveRadio|Sim radio|DE|128|0"
+ stream_data[1]: "http://stream.laut.fm/simulator1|simulatorONE|Sim radio|DE|128|0"
+ stream_data[2]: "http://stream.laut.fm/streamerfm|StreamerFM|Pop|DE|128|0"
+ }
+
+}
