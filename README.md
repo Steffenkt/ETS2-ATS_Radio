@@ -9,6 +9,11 @@ Eine eigene Radioliste für den Euro Truck Simulator 2 und den American Truck Si
     * "C:\Users\<BENUTZERNAME>\Documents\Euro Truck Simulator 2" (ETS2)  
     * "C:\Users\Steff\Documents\American Truck Simulator" (ATS)    
 4. Fertig  
+### Automatisch
+1. Downloaden des Github Projektes  
+2. Entpacken der ZIP-Datei  
+3. Die Datei "Installation.bat" ausführen  
+4. Fertig  
   
 ## Aktuelle Radiosender
 * 1LIVE
