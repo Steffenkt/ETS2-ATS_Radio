@@ -8,6 +8,7 @@ live_stream_def : _nameless.1ca.e536.a570 {
  stream_data[3]: "https://wdr-1live-live.sslcast.addradio.de/wdr/1live/live/mp3/128/stream.mp3|1LIVE|Adult contemporary|DE|128|0"
  stream_data[4]: "http://rnrw.cast.addradio.de/rnrw-01AB/deinlounge/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7&context=fHA6LTE=|Radio Vest|Adult contemporary|DE|128|0"
  stream_data[5]: "http://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7|Radio Duisburg|Adult contemporary|DE|128|0" 
+ stream_data[3]: "https://de-hz-fal-stream02.rautemusik.fm/wackenradio|Wacken Radio|Adult contemporary|DE|128|0"
  }
 
 }
