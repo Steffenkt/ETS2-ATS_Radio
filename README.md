@@ -22,4 +22,5 @@ Eine eigene Radioliste für den Euro Truck Simulator 2 und den American Truck Si
 * SimLiveRadio
 * simulatorONE
 * StreamerFM
+* TechnoBase.FM
 * Wacken Radio
